@@ -1,0 +1,15 @@
+{
+  "cache_key": "sonic_sdxl_42_e0211bc007ab",
+  "model": "stabilityai/stable-diffusion-xl-base-1.0",
+  "model_name": "SDXL Base 1.0",
+  "brand_id": "sonic",
+  "scenario": "Lifestyle in Context",
+  "seed": 42,
+  "prompt": "Commercial advertisement photography for sonic's wireless headphones. authentic editorial lifestyle setting, elegant ambient environmental context, aspirational setting. evoking a natural, premium, refreshing, energetic, luxurious mood. adhering to the official brand color palette of Color 1 (#1B4D3E), Color 2 (#87A96B), Color 3 (#F5F2EB), Color 4 (#E4A853). balanced 1:1 square composition, centered focal subject, generous negative space for typography overlay, Hasselblad 100mm f/2.8 macro lens, volumetric ray-traced lighting, 8k resolution commercial print quality. Brand Visual DNA: soft natural sunlight, organic textures, dew condensation, luxury minimalism. No text, no watermarks, no distorted typography.",
+  "negative_prompt": "unreadable text, artificial glare, neon, plastic, blurry, low quality, distorted text, unreadable lettering, watermark, logo artifacts, jpeg compression artifacts, oversaturated noise, extra fingers, deformed anatomy, mutilated, poorly rendered hands, cropped frame",
+  "timestamp": "2026-11-24T12:12:33.027224",
+  "latency": 0.12,
+  "success": true,
+  "source": "synthetic_no_token",
+  "notice": "HF_TOKEN not found in environment. Generated branded creative asset."
+}

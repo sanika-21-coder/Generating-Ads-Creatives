@@ -1,0 +1,17 @@
+{
+  "id": "velvet_roast",
+  "name": "Velvet Roast",
+  "product_name": "Nitro Cold Brew Artisan Reserve",
+  "category": "Beverage",
+  "description": "Micro-batch artisan nitro cold brew coffee with a velvety cascade head and smoky oak notes.",
+  "palette": [
+    {"name": "Deep Espresso Black", "hex": "#1F140E"},
+    {"name": "Rich Roasted Copper", "hex": "#B87333"},
+    {"name": "Warm Amber Honey", "hex": "#D99B26"},
+    {"name": "Froth Crema Silk", "hex": "#F6E8D6"}
+  ],
+  "mood": ["bold", "luxurious", "artisanal", "energetic", "cozy"],
+  "target_audience": "Specialty coffee connoisseurs, creative professionals, and luxury gastronomy lovers",
+  "things_to_avoid": ["milky tea", "pastel shades", "cartoon illustrations", "cheap takeout cups", "flat lighting", "watermark"],
+  "style_block": "rich dark moody chiaroscuro lighting, glistening amber liquid, nitro cascade microfoam, dark walnut and brushed copper background, high-end editorial gastronomy aesthetic"
+}

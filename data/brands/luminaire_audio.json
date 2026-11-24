@@ -1,0 +1,17 @@
+{
+  "id": "luminaire_audio",
+  "name": "Luminaire Audio",
+  "product_name": "Spatial Acoustics Wireless Studio Headphones",
+  "category": "Consumer Electronics",
+  "description": "Architectural precision wireless headphones featuring planar magnetic drivers and aerospace-grade matte titanium.",
+  "palette": [
+    {"name": "Matte Obsidian Black", "hex": "#121316"},
+    {"name": "Brushed Titanium Silver", "hex": "#C5C7CC"},
+    {"name": "Electric Cyan Glow", "hex": "#00D2FF"},
+    {"name": "Pure Nordic White", "hex": "#FAFAFA"}
+  ],
+  "mood": ["futuristic", "minimal", "sleek", "premium", "modern"],
+  "target_audience": "Audiophiles, tech innovators, industrial designers, and digital nomads",
+  "things_to_avoid": ["bulky messy cables", "vintage wood", "retro grunge", "toy plastics", "cluttered desktop", "blurry logos"],
+  "style_block": "sleek Nordic industrial design, precision studio rim lighting, monolithic concrete and brushed metal pedestal, crisp ray-traced reflections, hyper-clean commercial tech advertisement"
+}

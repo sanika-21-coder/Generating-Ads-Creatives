@@ -1,0 +1,17 @@
+{
+  "id": "aura_botanicals",
+  "name": "Aura Botanicals",
+  "product_name": "Sparkling Adaptogen Herbal Elixir",
+  "category": "Beverage",
+  "description": "Organic sparkling herbal elixir infused with wild botanical adaptogens for natural calm and vitality.",
+  "palette": [
+    {"name": "Deep Forest Emerald", "hex": "#1B4D3E"},
+    {"name": "Wild Herbal Sage", "hex": "#87A96B"},
+    {"name": "Organic Oat Cream", "hex": "#F5F2EB"},
+    {"name": "Warm Citrus Gold", "hex": "#E4A853"}
+  ],
+  "mood": ["calm", "natural", "premium", "refreshing", "serene"],
+  "target_audience": "Health-conscious urban professionals and mindful wellness enthusiasts",
+  "things_to_avoid": ["artificial colors", "plastic bottles", "neon lighting", "cheap soda graphics", "harsh glare", "distorted text"],
+  "style_block": "organic botanical aesthetic, soft natural daylight, dewy condensation on frosted glass, earthy textures, luxury minimalist wellness art direction"
+}

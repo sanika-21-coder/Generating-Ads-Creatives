@@ -1,0 +1,38 @@
+{
+  "name": "sonic",
+  "product_name": "wireless earphones",
+  "category": "electronics",
+  "description": "Brand creative identity",
+  "palette": [
+    {
+      "name": "Color 1",
+      "hex": "#1B4D3E"
+    },
+    {
+      "name": "Color 2",
+      "hex": "#87A96B"
+    },
+    {
+      "name": "Color 3",
+      "hex": "#F5F2EB"
+    },
+    {
+      "name": "Color 4",
+      "hex": "#E4A853"
+    }
+  ],
+  "mood": [
+    "natural",
+    "premium",
+    "refreshing"
+  ],
+  "target_audience": "",
+  "things_to_avoid": [
+    "plastic",
+    "neon",
+    "artificial glare",
+    "unreadable text"
+  ],
+  "style_block": "soft natural sunlight, organic textures, dew condensation, luxury minimalism",
+  "id": "sonic"
+}

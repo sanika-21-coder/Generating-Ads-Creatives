@@ -1,0 +1,16 @@
+{
+  "cache_key": "bean_bloom_flux_42_061552395631",
+  "model": "black-forest-labs/FLUX.1-schnell",
+  "model_name": "FLUX.1-schnell",
+  "brand_id": "bean_bloom",
+  "scenario": "Hero Product Shot",
+  "seed": 42,
+  "prompt": "Commercial advertisement photography for BEAN & BLOOM's Signature Caramel Latte. hero center-stage commercial photography, high-end studio lighting, sharp focus on primary packaging. evoking a natural, premium, refreshing, luxurious mood. adhering to the official brand color palette of Color 1 (\t#006B4F), Color 2 (\t#F4EBDD), Color 3 (\t#5B3825), Color 4 (\t#C6A66B). balanced 1:1 square composition, centered focal subject, generous negative space for typography overlay, Hasselblad 100mm f/2.8 macro lens, volumetric ray-traced lighting, 8k resolution commercial print quality. Brand Visual DNA: Create a premium international coffeehouse brand identity inspired by modern specialty caf\u00e9 culture. Use forest green, warm cream, rich coffee brown, and subtle golden accents. Feature elegant takeaway cups, handcrafted espresso, cappuccino, iced coffee, frappes, latte art, and freshly baked pastries. Use sophisticated typography, a distinctive original botanical coffee-inspired emblem, warm lighting, natural wood textures, and welcoming caf\u00e9 interiors. The overall visual style should feel premium, cozy, modern, friendly, recognizable, and aspirational. Maintain consistent branding across coffee cups, packaging, storefronts, menus, advertisements, and social media campaigns.. No text, no watermarks, no distorted typography.",
+  "negative_prompt": "copied competitor logos., excessive text, low-quality product images, cartoon-style graphics, cluttered layouts, neon colors, cheap designs, blurry, low quality, distorted text, unreadable lettering, watermark, logo artifacts, jpeg compression artifacts, oversaturated noise, extra fingers, deformed anatomy, mutilated, poorly rendered hands, cropped frame",
+  "timestamp": "2026-11-24T12:36:43.537311",
+  "latency": 11.82,
+  "success": false,
+  "error": "Client error '402 Payment Required' for url 'https://router.huggingface.co/fal-ai/fal-ai/flux/schnell' (Request ID: Root=1-6b053780-09acaec32a9441627518bb5f;f56e1a56-8e42-4b93-9de9-0374683cd076)\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/402\n\nPurchase pre-paid credits to continue using Inference Providers. Alternatively, subscribe to PRO to get monthly included credits.",
+  "source": "synthetic_error_fallback",
+  "notice": "Inference API error. Served branded synthetic creative."
+}

@@ -1,0 +1,15 @@
+{
+  "cache_key": "velvet_roast_flux_42_9285ced585e5",
+  "model": "black-forest-labs/FLUX.1-schnell",
+  "model_name": "FLUX.1-schnell",
+  "brand_id": "velvet_roast",
+  "scenario": "Festive & Celebration",
+  "seed": 42,
+  "prompt": "Commercial advertisement photography for Velvet Roast's Nitro Cold Brew Artisan Reserve. festive seasonal celebration, sparkling ambient highlights, celebratory holiday atmosphere. evoking a bold, luxurious, artisanal, energetic, cozy mood. adhering to the official brand color palette of Deep Espresso Black (#1F140E), Rich Roasted Copper (#B87333), Warm Amber Honey (#D99B26), Froth Crema Silk (#F6E8D6). balanced 1:1 square composition, centered focal subject, generous negative space for typography overlay, Hasselblad 100mm f/2.8 macro lens, volumetric ray-traced lighting, 8k resolution commercial print quality. Brand Visual DNA: rich dark moody chiaroscuro lighting, glistening amber liquid, nitro cascade microfoam, dark walnut and brushed copper background, high-end editorial gastronomy aesthetic. No text, no watermarks, no distorted typography.",
+  "negative_prompt": "flat lighting, cheap takeout cups, cartoon illustrations, pastel shades, milky tea, blurry, low quality, distorted text, unreadable lettering, watermark, logo artifacts, jpeg compression artifacts, oversaturated noise, extra fingers, deformed anatomy, mutilated, poorly rendered hands, cropped frame",
+  "timestamp": "2026-11-24T12:12:34.507545",
+  "latency": 0.12,
+  "success": true,
+  "source": "synthetic_no_token",
+  "notice": "HF_TOKEN not found in environment. Generated branded creative asset."
+}

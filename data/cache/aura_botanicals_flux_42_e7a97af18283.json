@@ -1,0 +1,15 @@
+{
+  "cache_key": "aura_botanicals_flux_42_e7a97af18283",
+  "model": "black-forest-labs/FLUX.1-schnell",
+  "model_name": "FLUX.1-schnell",
+  "brand_id": "aura_botanicals",
+  "scenario": "Outdoor Natural Light",
+  "seed": 42,
+  "prompt": "Commercial advertisement photography for Aura Botanicals's Sparkling Adaptogen Herbal Elixir. sun-drenched outdoor golden hour lighting, lush organic environmental depth, soft breeze. evoking a calm, natural, premium, refreshing, serene mood. adhering to the official brand color palette of Deep Forest Emerald (#1B4D3E), Wild Herbal Sage (#87A96B), Organic Oat Cream (#F5F2EB), Warm Citrus Gold (#E4A853). balanced 1:1 square composition, centered focal subject, generous negative space for typography overlay, Hasselblad 100mm f/2.8 macro lens, volumetric ray-traced lighting, 8k resolution commercial print quality. Brand Visual DNA: organic botanical aesthetic, soft natural daylight, dewy condensation on frosted glass, earthy textures, luxury minimalist wellness art direction. No text, no watermarks, no distorted typography.",
+  "negative_prompt": "harsh glare, cheap soda graphics, neon lighting, plastic bottles, artificial colors, blurry, low quality, distorted text, unreadable lettering, watermark, logo artifacts, jpeg compression artifacts, oversaturated noise, extra fingers, deformed anatomy, mutilated, poorly rendered hands, cropped frame",
+  "timestamp": "2026-11-24T12:12:30.959578",
+  "latency": 0.12,
+  "success": true,
+  "source": "synthetic_no_token",
+  "notice": "HF_TOKEN not found in environment. Generated branded creative asset."
+}

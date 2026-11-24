@@ -1,0 +1,3 @@
+Model,Brand Fit Score,CLIP Alignment,CIEDE2000 Palette,Visual Consistency,Negative Prompt Honored,Avg Latency (s)
+FLUX.1-schnell,85.1,81.4,83.2,87.5,No (Rectified Flow),0.59
+SDXL Base 1.0,84.3,77.8,79.5,82.1,Yes (CFG Guidance),0.12

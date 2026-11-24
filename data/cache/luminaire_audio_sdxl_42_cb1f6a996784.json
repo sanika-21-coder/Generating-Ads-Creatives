@@ -1,0 +1,15 @@
+{
+  "cache_key": "luminaire_audio_sdxl_42_cb1f6a996784",
+  "model": "stabilityai/stable-diffusion-xl-base-1.0",
+  "model_name": "SDXL Base 1.0",
+  "brand_id": "luminaire_audio",
+  "scenario": "Lifestyle in Context",
+  "seed": 42,
+  "prompt": "Commercial advertisement photography for Luminaire Audio's Spatial Acoustics Wireless Studio Headphones. authentic editorial lifestyle setting, elegant ambient environmental context, aspirational setting. evoking a futuristic, minimal, sleek, premium, modern mood. adhering to the official brand color palette of Matte Obsidian Black (#121316), Brushed Titanium Silver (#C5C7CC), Electric Cyan Glow (#00D2FF), Pure Nordic White (#FAFAFA). balanced 1:1 square composition, centered focal subject, generous negative space for typography overlay, Hasselblad 100mm f/2.8 macro lens, volumetric ray-traced lighting, 8k resolution commercial print quality. Brand Visual DNA: sleek Nordic industrial design, precision studio rim lighting, monolithic concrete and brushed metal pedestal, crisp ray-traced reflections, hyper-clean commercial tech advertisement. No text, no watermarks, no distorted typography.",
+  "negative_prompt": "blurry logos, cluttered desktop, toy plastics, retro grunge, vintage wood, bulky messy cables, blurry, low quality, distorted text, unreadable lettering, watermark, logo artifacts, jpeg compression artifacts, oversaturated noise, extra fingers, deformed anatomy, mutilated, poorly rendered hands, cropped frame",
+  "timestamp": "2026-11-24T12:12:31.733270",
+  "latency": 0.12,
+  "success": true,
+  "source": "synthetic_no_token",
+  "notice": "HF_TOKEN not found in environment. Generated branded creative asset."
+}
